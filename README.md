@@ -1,5 +1,4 @@
 # MediTrack
-# MediTrack
 **Guide:**
 > Dr. Pravin Adivarekar
 
